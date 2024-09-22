@@ -1,0 +1,30 @@
+.navbar-gradient {
+    background: linear-gradient(to right, rgb(163, 163, 244), rgb(102, 207, 242), rgb(241, 168, 168));
+    
+  }
+  
+  .nav-link {
+    
+    font-size: 18px;
+  }
+  .dark-mode {
+    background-color: #343a40; /* Dark mode background */
+  color: white;
+  }
+  .blue-mode{
+    background-color: rgb(77, 244, 244);
+    color: white;
+  }
+  .green-mode{
+    background-color: green;
+    color: white;
+  }
+  .navbar-nav {
+    gap: 30px;
+  }
+  
+  
+  .btn {
+    margin-left: 10px;
+  }
+  
